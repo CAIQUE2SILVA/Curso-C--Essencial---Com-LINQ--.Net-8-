@@ -1,0 +1,14 @@
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.exe
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.deps.json
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.runtimeconfig.json
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.dll
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.pdb
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfoInputs.cache
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfo.cs
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.dll
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\refint\TiposDeDados1.dll
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.pdb
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.genruntimeconfig.cache
+C:\Users\caique.silva\source\repos\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\ref\TiposDeDados1.dll

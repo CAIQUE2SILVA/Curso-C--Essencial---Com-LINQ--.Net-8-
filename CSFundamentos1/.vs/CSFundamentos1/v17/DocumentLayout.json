@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410C72CC-30AE-4FC5-AF2A-B3A05D8C60FF}|TiposDeDados1\\TiposDeDados1.csproj|d:\\curso-c--essencial---com-linq--.net-8-\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410C72CC-30AE-4FC5-AF2A-B3A05D8C60FF}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
+              "ToolTip": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeToolTip": "TiposDeDados1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:50:34.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
