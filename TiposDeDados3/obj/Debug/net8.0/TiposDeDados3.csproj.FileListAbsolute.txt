@@ -1,0 +1,15 @@
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.exe
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.deps.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.runtimeconfig.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\bin\Debug\net8.0\TiposDeDados3.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.AssemblyInfoInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.AssemblyInfo.cs
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.csproj.CoreCompileInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.sourcelink.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\refint\TiposDeDados3.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\TiposDeDados3.genruntimeconfig.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposDeDados3\obj\Debug\net8.0\ref\TiposDeDados3.dll

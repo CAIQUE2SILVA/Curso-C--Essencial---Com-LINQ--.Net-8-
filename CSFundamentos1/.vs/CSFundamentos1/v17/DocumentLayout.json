@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{410C72CC-30AE-4FC5-AF2A-B3A05D8C60FF}|TiposDeDados1\\TiposDeDados1.csproj|d:\\curso-c--essencial---com-linq--.net-8-\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{410C72CC-30AE-4FC5-AF2A-B3A05D8C60FF}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C15C6E4-D74B-49F1-B8AF-1E40325CBD56}|Indentificadores\\Indentificadores.csproj|d:\\curso-c--essencial---com-linq--.net-8-\\csfundamentos1\\indentificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C15C6E4-D74B-49F1-B8AF-1E40325CBD56}|Indentificadores\\Indentificadores.csproj|solutionrelative:indentificadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F3F49-8152-452F-B02F-DBC318039295}|NullableTypes\\NullableTypes.csproj|d:\\curso-c--essencial---com-linq--.net-8-\\csfundamentos1\\nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F3F49-8152-452F-B02F-DBC318039295}|NullableTypes\\NullableTypes.csproj|solutionrelative:nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03839BDF-7BE8-4CB6-A581-90D8718342D2}|TipoDateTime1\\TipoDateTime1.csproj|d:\\curso-c--essencial---com-linq--.net-8-\\csfundamentos1\\tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03839BDF-7BE8-4CB6-A581-90D8718342D2}|TipoDateTime1\\TipoDateTime1.csproj|solutionrelative:tipodatetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\NullableTypes\\Program.cs",
+              "RelativeDocumentMoniker": "NullableTypes\\Program.cs",
+              "ToolTip": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\NullableTypes\\Program.cs",
+              "RelativeToolTip": "NullableTypes\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:45:12.26Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
-              "ToolTip": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\TiposDeDados1\\Program.cs",
-              "RelativeToolTip": "TiposDeDados1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "DocumentMoniker": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\Indentificadores\\Program.cs",
+              "RelativeDocumentMoniker": "Indentificadores\\Program.cs",
+              "ToolTip": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\Indentificadores\\Program.cs",
+              "RelativeToolTip": "Indentificadores\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:50:34.131Z",
+              "WhenOpened": "2024-05-08T20:15:00.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeDocumentMoniker": "TipoDateTime1\\Program.cs",
+              "ToolTip": "D:\\Curso-C--Essencial---Com-LINQ--.Net-8-\\CSFundamentos1\\TipoDateTime1\\Program.cs",
+              "RelativeToolTip": "TipoDateTime1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:15:05.757Z",
               "EditorCaption": ""
             }
           ]

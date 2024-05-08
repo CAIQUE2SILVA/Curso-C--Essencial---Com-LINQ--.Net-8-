@@ -1,0 +1,15 @@
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.exe
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.deps.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.runtimeconfig.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\bin\Debug\net8.0\TipoDateTime1.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.AssemblyInfoInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.AssemblyInfo.cs
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.csproj.CoreCompileInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.sourcelink.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\refint\TipoDateTime1.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\TipoDateTime1.genruntimeconfig.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TipoDateTime1\obj\Debug\net8.0\ref\TipoDateTime1.dll

@@ -1,0 +1,15 @@
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.exe
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.deps.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.runtimeconfig.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\bin\Debug\net8.0\NullableTypes.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfoInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.AssemblyInfo.cs
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.csproj.CoreCompileInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.sourcelink.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\refint\NullableTypes.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\NullableTypes.genruntimeconfig.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\NullableTypes\obj\Debug\net8.0\ref\NullableTypes.dll

@@ -1,0 +1,15 @@
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\bin\Debug\net8.0\TiposdeDados4.exe
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\bin\Debug\net8.0\TiposdeDados4.deps.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\bin\Debug\net8.0\TiposdeDados4.runtimeconfig.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\bin\Debug\net8.0\TiposdeDados4.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\bin\Debug\net8.0\TiposdeDados4.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.AssemblyInfoInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.AssemblyInfo.cs
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.csproj.CoreCompileInputs.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.sourcelink.json
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\refint\TiposdeDados4.dll
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.pdb
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\TiposdeDados4.genruntimeconfig.cache
+D:\Curso-C--Essencial---Com-LINQ--.Net-8-\CSFundamentos1\TiposdeDados4\obj\Debug\net8.0\ref\TiposdeDados4.dll
